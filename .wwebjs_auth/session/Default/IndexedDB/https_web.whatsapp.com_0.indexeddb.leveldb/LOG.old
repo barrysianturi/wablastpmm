@@ -1,0 +1,35 @@
+2024/02/22-11:25:17.947 741c Reusing MANIFEST C:\Users\barry\Documents\PMM\whatsapp-blast-local\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/22-11:25:17.948 741c Recovering log #515
+2024/02/22-11:25:17.978 741c Reusing old log C:\Users\barry\Documents\PMM\whatsapp-blast-local\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000515.log 
+2024/02/22-11:25:47.732 8698 Level-0 table #529: started
+2024/02/22-11:25:47.769 8698 Level-0 table #529: 1599806 bytes OK
+2024/02/22-11:25:47.771 8698 Delete type=0 #515
+2024/02/22-11:25:48.396 671c Compacting 1@0 + 0@1 files
+2024/02/22-11:25:48.444 671c Generated table #530@0: 25615 keys, 604271 bytes
+2024/02/22-11:25:48.444 671c Compacted 1@0 + 0@1 files => 604271 bytes
+2024/02/22-11:25:48.445 671c compacted to: files[ 0 1 10 0 0 0 0 ]
+2024/02/22-11:25:48.445 671c Delete type=2 #529
+2024/02/22-11:26:08.744 8cd8 Compacting 1@1 + 10@2 files
+2024/02/22-11:26:08.814 8cd8 Generated table #531@1: 70851 keys, 2536302 bytes
+2024/02/22-11:26:08.851 8cd8 Generated table #532@1: 20962 keys, 2523410 bytes
+2024/02/22-11:26:08.899 8cd8 Generated table #533@1: 32835 keys, 2199364 bytes
+2024/02/22-11:26:08.913 8cd8 Generated table #534@1: 1305 keys, 2127242 bytes
+2024/02/22-11:26:08.919 8cd8 Generated table #535@1: 204 keys, 2114005 bytes
+2024/02/22-11:26:08.970 8cd8 Generated table #536@1: 24985 keys, 2214756 bytes
+2024/02/22-11:26:08.992 8cd8 Generated table #537@1: 4494 keys, 2126687 bytes
+2024/02/22-11:26:09.078 8cd8 Generated table #538@1: 93841 keys, 2242272 bytes
+2024/02/22-11:26:09.152 8cd8 Generated table #539@1: 93522 keys, 2239614 bytes
+2024/02/22-11:26:09.191 8cd8 Generated table #540@1: 41278 keys, 995828 bytes
+2024/02/22-11:26:09.192 8cd8 Compacted 1@1 + 10@2 files => 21319480 bytes
+2024/02/22-11:26:09.193 8cd8 compacted to: files[ 0 0 10 0 0 0 0 ]
+2024/02/22-11:26:09.193 8cd8 Delete type=2 #517
+2024/02/22-11:26:09.194 8cd8 Delete type=2 #518
+2024/02/22-11:26:09.194 8cd8 Delete type=2 #519
+2024/02/22-11:26:09.194 8cd8 Delete type=2 #520
+2024/02/22-11:26:09.194 8cd8 Delete type=2 #521
+2024/02/22-11:26:09.194 8cd8 Delete type=2 #522
+2024/02/22-11:26:09.194 8cd8 Delete type=2 #523
+2024/02/22-11:26:09.194 8cd8 Delete type=2 #524
+2024/02/22-11:26:09.194 8cd8 Delete type=2 #525
+2024/02/22-11:26:09.194 8cd8 Delete type=2 #526
+2024/02/22-11:26:09.194 8cd8 Delete type=2 #530
